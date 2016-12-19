@@ -1,0 +1,8 @@
+export(gibbsSampler)
+export(findPostMean)
+export(findPostCov)
+export(MC3)
+import(igraph)
+importFrom("stats", "as.formula", "glm", "model.matrix", "poisson", "terms")
+importFrom("stats", "na.omit", "rbinom", "rgamma", "runif", "xtabs")
+useDynLib(bayesloglin)
