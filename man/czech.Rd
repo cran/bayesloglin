@@ -1,5 +1,5 @@
 \name{czech}
-\Rdversion{1.0}
+\Rdversion{1.0.1}
 \alias{czech}
 \docType{data}
 \title{The Czech autoworkers data}

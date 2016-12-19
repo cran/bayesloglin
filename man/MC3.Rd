@@ -1,6 +1,6 @@
 \name{MC3}
 \alias{MC3}
-\Rdversion{1.0}
+\Rdversion{1.0.1}
 \title{Implementation of the MC3 algorithm}
 \description{The MC3 algorithm is used to find the log-linear models with the highest posterior probability. The function is capable of searching the space of decomposable, graphical, and hierarchical models.}
 \usage{MC3 (init = NULL, alpha = 1, iterations = 5000, replicates = 1, data, 

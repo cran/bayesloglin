@@ -1,6 +1,6 @@
 \name{findPostMean}
 \alias{findPostMean}
-\Rdversion{1.0}
+\Rdversion{1.0.1}
 \title{Posterior covariance matrix for a decomposable model.}
 \description{Computes the posterior mean, which for decomposable models, is known in closed form.}
 \usage{findPostMean(formula, alpha, data)}

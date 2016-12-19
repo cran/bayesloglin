@@ -1,4 +1,4 @@
-185fd19fb49815a979e5ff8283833eea *DESCRIPTION
+ab58f155e23d4bef0ee380eea7b5957e *DESCRIPTION
 299a7aaa2bf6fce442b4bff4873b14dc *NAMESPACE
 30cfb52b8295cc4723d9571277fa961a *R/MC3.Decomposable.R
 79200a97d879e6f08f0504ad74f0e686 *R/MC3.Graphical.R
@@ -40,13 +40,13 @@ c857b29b58c40da5b653ce0e025ac7a5 *R/randomDecomposableGraph.R
 45d58dff1b74f4795e732c8e4cdcb7fd *data/czech.rda
 54c119a03c05612aee618750db7b3ebe *inst/doc/bayesloglin-R-package.Rnw
 7156123622769c00f507f17839463e39 *inst/doc/bayesloglin-R-package.pdf
-9d76c49a4d518ead42c0dd39081b217c *man/MC3.Rd
-e8a50cc173b88e2f7e5361c34669d02d *man/bayesloglin.Rd
-59beb253b01e2b8dea0cdc86fc382c3a *man/czech.Rd
-e3c6789427d1338b4c85c771c13ba43e *man/findPostCov.Rd
-e28c404f7c5b48b3845eb6ffad80c24f *man/findPostMean.Rd
-f62276e7d213f1fc9daf9dcf61b9554b *man/gibbsSampler.Rd
-2fad50ee7f32e79492edcc000d20cc44 *src/c_code_dec.c
+e9eff35ea226d70ce2827025ef329927 *man/MC3.Rd
+4f525f8578182fc2a7c07aa57dd8ef09 *man/bayesloglin.Rd
+45f0639aa220ab5487b8d9ac6c21eea8 *man/czech.Rd
+4b7d8c9cabe11c3226c39b6066757d94 *man/findPostCov.Rd
+afd252d8f8a57e9bf393f9b16cf3b613 *man/findPostMean.Rd
+45ccf272d4436e6a85aa16eb2f95f938 *man/gibbsSampler.Rd
+dd1ba27fa663244112387839ceefd17d *src/c_code_dec.c
 54c119a03c05612aee618750db7b3ebe *vignettes/bayesloglin-R-package.Rnw
 5b70c707334678394d0d5927b351274c *vignettes/mybib.bib
 9f78f63c0bc989814b157921280718c4 *vignettes/srcltx.sty

@@ -4,7 +4,7 @@
 #include <R.h>
 
 // finds marginal table 
-void findMargFreqs (int *data, int *nrow, int *ncol, int *dims, double *data$freq, double *margFreqs) {
+void findMargFreqs (int *data, int *nrow, int *ncol, int *dims, double *freq, double *margFreqs) {
 
   int i;
   
@@ -23,7 +23,7 @@ void findMargFreqs (int *data, int *nrow, int *ncol, int *dims, double *data$fre
   for (i = 0; i < nrow[0] * ncol[0]; i++) {
     index = index + data[i] * cumDims [i % ncol[0]];   
     if ((i+1) % ncol[0] == 0) {
-      margFreqs[index] += data$freq[i / ncol[0]];
+      margFreqs[index] += freq[i / ncol[0]];
       index = 0;      
     }
   }  

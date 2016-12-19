@@ -1,6 +1,6 @@
 \name{findPostCov}
 \alias{findPostCov}
-\Rdversion{1.0}
+\Rdversion{1.0.1}
 \title{Posterior covariance matrix for a decomposable model.}
 \description{Computes the posterior covariance matrix of the log-linear parameters, which for decomposable models, is known in closed form.}
 \usage{findPostCov(formula, alpha, data)}

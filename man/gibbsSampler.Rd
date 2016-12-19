@@ -1,6 +1,6 @@
 \name{gibbsSampler}
 \alias{gibbsSampler}
-\Rdversion{1.0}
+\Rdversion{1.0.1}
 \title{A blocked Gibbs sampler.}
 \description{Generates samples from the posterior distribution of the log-linear parameters.}
 \usage{gibbsSampler (formula, alpha = 1, data, nSamples = 10000, verbose = T)}

@@ -1,5 +1,5 @@
 \name{bayesloglin}
-\Rdversion{1.0}
+\Rdversion{1.0.1}
 \title{Bayesian analysis of contingency table data}
 \description{Functions for Bayesian model selection and inference for log-linear models.}
 \details{
